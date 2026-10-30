@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TP3_Algebra/TP3_Algebra.vcxproj" />
+  <Project Path="TP3_Algebra/TP3_Algebra.vcxproj" Id="f5e37e2f-da7d-4c12-824e-c267c806556c" />
 </Solution>

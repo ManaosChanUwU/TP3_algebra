@@ -23,7 +23,7 @@ namespace ReyesCuadra
 
     const float POSITION_LIMIT_MARGIN = 2.0f;
 
-    const float MOVE_SPEED = 3.0f;
+    const float MOVE_SPEED = 5.0f;
     const float ROTATION_SPEED = 90.0f;
     const float SCALE_SPEED = 1.0f;
     const float MIN_SCALE = 0.2f;
